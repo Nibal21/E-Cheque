@@ -1,0 +1,60 @@
+E-Cheque
+
+first-form loading page or welcome
+
+2nd-form login page - 
+
+username  live validation 
+password  live validation
+
+button = sign up and sign in ; forgot password 
+
+sing up form (3rd form)
+
+first name : 
+
+last name :
+
+nid number :
+
+email :
+
+savings account: (radio button) = 1.business account 2. personal account
+   
+account number:
+
+signature:
+
+bank selection:
+
+password:
+
+confirm password:
+
+button sing up 
+
+return to form 1 
+
+sign in (4th form) go back
+
+(database -) rules and what so ever....
+
+start filling cheque: (5th form) 
+
+5th form: 
+
+pay to:
+
+the sum of taka: 
+
+tk:
+
+signature: 
+
+bank name 
+
+search available brunch (search operation)
+
+(Crud operation) button- done filling, go back (database - 2ta option download the receipt yes - 6th form thank you or no stay in the 5th form)   
+ 
+
